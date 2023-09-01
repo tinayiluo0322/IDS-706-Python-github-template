@@ -3,4 +3,4 @@
 
 IDS 706 Mini-Project 1
 
-Python GitHub template, including a Makefile, requirements.txt, .devcontainer, .gitignore, GitHubActions, and Readme.
+Python GitHub template (Makefile, requirements.txt, .devcontainer, .gitignore, GitHubActions, and Readme.)
