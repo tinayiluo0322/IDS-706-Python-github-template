@@ -1,5 +1,5 @@
 [![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml)
-## Template for Python projects 
+## Template for Python Projects 
 
 IDS 706 Mini-Project 1
 
