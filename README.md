@@ -7,21 +7,21 @@ This Python GitHub template includes a `Makefile`, `requirements.txt`, `.devcont
 
 ### Goals
 
-The purpose of this project is to create a Python template to use for later projects in IDS 706 Data Engineering. It sets up an environment on codespaces and uses GitHub Actions to run a Makefile for the following: 'make install', 'make test', 'make format', 'make lint', and 'make all'. 
+The purpose of this project is to create a Python template to use for later projects in IDS 706 Data Engineering. It sets up an environment on codespaces and uses GitHub Actions to run a Makefile for the following: `make install`, `make test`, `make format`, `make lint`, and `make all`. 
 
 ### Overview 
-+ '.devcontainer': define and set up containerized development environments, providing a consistent and isolated workspace for coding and testing applications. It includes a Dockerfile and a devcontainer.json file.
-  + 'Dockerfile': set up a development container for Python and optionally Node.js development within Visual Studio Code.
-  + 'devcontainer.json': configure and define a development container environment for use with Visual Studio Code's Remote - Containers extension. 
++ `.devcontainer`: define and set up containerized development environments, providing a consistent and isolated workspace for coding and testing applications. It includes a Dockerfile and a devcontainer.json file.
+  + `Dockerfile`: set up a development container for Python and optionally Node.js development within Visual Studio Code.
+  + `devcontainer.json`: configure and define a development container environment for use with Visual Studio Code's Remote - Containers extension. 
 
-+ '.github/workflows': a special directory used to store workflow configuration files for GitHub Actions(CI/CD). It includes a ci.yml file, which automates the CI process for a code repository.
-  + 'ci.yml': triggers code pushes to the "main" branch, pulls requests to the "main" branch, and allows manual triggering. The workflow includes steps to check out code, install dependencies, perform linting, run tests, and apply code formatting. This automation helps maintain code quality and ensures that code changes are continuously tested and validated.
++ `.github/workflows`: a special directory used to store workflow configuration files for GitHub Actions(CI/CD). It includes a ci.yml file, which automates the CI process for a code repository.
+  + `ci.yml`: triggers code pushes to the "main" branch, pulls requests to the "main" branch, and allows manual triggering. The workflow includes steps to check out code, install dependencies, perform linting, run tests, and apply code formatting. This automation helps maintain code quality and ensures that code changes are continuously tested and validated.
 
-+ '.gitignore': specify patterns of files and directories that should be ignored by Git when tracking changes and making commits in a project.
-+ 'Makefile': contains a set of rules that define how to automate common development tasks related to a Python project, including installing dependencies, running tests, and maintaining code formatting and code quality standards in a Python project.
-+ 'requirements.txt': specify Python package dependencies that are required to run the project.
-+ 'main.py': defines a simple function positive_real_number that checks if a given number is greater than 0 and returns True if it is.
-+ 'test_main.py': test the functionality of the positive_real_number function defined in the main.py module.
++ `.gitignore`: specify patterns of files and directories that should be ignored by Git when tracking changes and making commits in a project.
++ `Makefile`: contains a set of rules that define how to automate common development tasks related to a Python project, including installing dependencies, running tests, and maintaining code formatting and code quality standards in a Python project.
++ `requirements.txt`: specify Python package dependencies that are required to run the project.
++ `main.py`: defines a simple function positive_real_number that checks if a given number is greater than 0 and returns True if it is.
++ `test_main.py`: test the functionality of the positive_real_number function defined in the main.py module.
   
 ### Test Approval Image
 
