@@ -24,8 +24,9 @@ The purpose of this project is to create a Python template to use for later proj
 + `test_main.py`: test the functionality of the positive_real_number function defined in the main.py module.
   
 ### Check Format and Test Approval Image
-+ format code `make format`
++ install code `make install'
 + lint code `make lint`
++ format code `make format`
 + test code `make test`
 + code `make all` executes install, lint, format, and test targets
 
