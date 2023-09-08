@@ -30,9 +30,11 @@ The purpose of this project is to create a Python template to use for later proj
 + test code `make test`
 + code `make all` executes install, lint, format, and test targets
 
-<img width="1133" alt="Screen Shot 2023-09-07 at 7 48 01 PM" src="https://github.com/tinayiluo0322/IDS-706-Python-github-template/assets/143360909/8cfef660-84e3-4dad-a491-ce6fd0d567d8">
+<img width="749" alt="Screen Shot 2023-09-07 at 10 29 08 PM" src="https://github.com/tinayiluo0322/IDS-706-Python-github-template/assets/143360909/48f9566b-1281-4f66-ae7e-a3df52ddb9fa">
 
-<img width="1111" alt="Screen Shot 2023-09-07 at 7 47 21 PM" src="https://github.com/tinayiluo0322/IDS-706-Python-github-template/assets/143360909/cb74e5ac-7d40-413b-b6b6-bef0809f99f6">
+<img width="1122" alt="Screen Shot 2023-09-07 at 10 25 29 PM" src="https://github.com/tinayiluo0322/IDS-706-Python-github-template/assets/143360909/022fcaaf-b972-4028-9763-be900e20946b">
+
+<img width="1107" alt="Screen Shot 2023-09-07 at 10 26 06 PM" src="https://github.com/tinayiluo0322/IDS-706-Python-github-template/assets/143360909/c7c28868-6e81-4337-8bea-e2786d4c17bf">
 
 ### [References](https://github.com/nogibjj/python-template)
 
