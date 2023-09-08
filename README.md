@@ -29,5 +29,5 @@ The purpose of this project is to create a Python template to use for later proj
 
 <img width="1111" alt="Screen Shot 2023-09-07 at 7 47 21 PM" src="https://github.com/tinayiluo0322/IDS-706-Python-github-template/assets/143360909/cb74e5ac-7d40-413b-b6b6-bef0809f99f6">
 
-
+### [References](https://github.com/nogibjj/python-template)
 
