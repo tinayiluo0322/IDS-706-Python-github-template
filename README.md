@@ -23,7 +23,10 @@ The purpose of this project is to create a Python template to use for later proj
 + `main.py`: defines a simple function positive_real_number that checks if a given number is greater than 0 and returns True if it is.
 + `test_main.py`: test the functionality of the positive_real_number function defined in the main.py module.
   
-### Test Approval Image
+### Check Format and Test Approval Image
++ format code "make format"
++ lint code "make lint"
++ test code "make test"
 
 <img width="1133" alt="Screen Shot 2023-09-07 at 7 48 01 PM" src="https://github.com/tinayiluo0322/IDS-706-Python-github-template/assets/143360909/8cfef660-84e3-4dad-a491-ce6fd0d567d8">
 
